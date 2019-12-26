@@ -1,0 +1,45 @@
+{
+  "name": "redux_ts",
+  "version": "1.0.0",
+  "description": "Learning Redux",
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamYao-GitHub/redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamYao-GitHub/redux/issues"
+  },
+  "homepage": "https://github.com/AdamYao-GitHub/redux#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-intl": "^3.9.2",
+    "react-redux": "^7.1.3",
+    "react-scripts-ts": "^3.1.0",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.23",
+    "@types/node": "^12.12.14",
+    "@types/react": "^16.9.15",
+    "@types/react-dom": "^16.9.4",
+    "@types/react-redux": "^7.1.5",
+    "typescript": "^3.7.3"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "typescript"
+  ]
+}
