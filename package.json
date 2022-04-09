@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/AdamYao-GitHub/redux#readme",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-intl": "^3.9.2",
